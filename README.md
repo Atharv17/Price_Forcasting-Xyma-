@@ -18,3 +18,6 @@ Steps:
 6)Generated date of the next 30 days and predicted the price on the basis of 
   the next 30 coefficient.
    
+References: 
+
+https://otexts.com/fpp2/holt-winters.html
